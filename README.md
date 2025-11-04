@@ -38,9 +38,7 @@ https://github.com/user-attachments/assets/4452d368-b48e-4ef5-a8c5-17fc87daf4bd
 
 <img width="818" height="659" alt="Image" src="https://github.com/user-attachments/assets/de22fc16-59e7-491f-9149-9e03e7620c75" />
 
-## Character & Animations
-
-# Models and animations are from Mixamo
+## Character & Animations -> Models and animations are from Mixamo
 
 Character and animation files used:
   Ty.dae – Base character model
@@ -54,6 +52,7 @@ Character and animation files used:
 This project is for educational and personal learning purposes.
 Character and animation assets © Mixamo
 .
+
 
 
 
