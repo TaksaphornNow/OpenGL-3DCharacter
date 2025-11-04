@@ -21,11 +21,17 @@
 🧩 Controls
   Key	Action
   W / A / S / D	Move character
+  
   K	Play “Silly Dancing” animation
+  
   L	Play “Dying” animation
+  
   Q / E	Raise or lower camera height
+  
   Mouse	Look around
+  
   Esc	Exit program
+
 
 🧍 Character & Animations
 
@@ -43,3 +49,4 @@ Character and animation files used:
 This project is for educational and personal learning purposes.
 Character and animation assets © Mixamo
 .
+
